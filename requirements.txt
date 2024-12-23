@@ -1,0 +1,10 @@
+# youtube url https://www.youtube.com/watch?v=-uGZFyO9O5k
+streamlit
+requests
+dotenv
+
+langchain
+langchain-community 
+langchain-community==0.3.13
+
+GROQ_API_KEY=your_groq_api_key_here
