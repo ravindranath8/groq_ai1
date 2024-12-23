@@ -35,7 +35,7 @@ PERSONAS = {
 }
 
 # Initialize the Groq API key
-GROQ_API_KEY = os.getenv('GROQ_API_KEY')
+GROQ_API_KEY = os.getenv('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')
 
 # Streamlit page configuration
 st.set_page_config(
