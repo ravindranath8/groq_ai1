@@ -1,4 +1,4 @@
-# youtube url https://www.youtube.com/watch?v=-uGZFyO9O5k
+
 streamlit
 requests
 dotenv
@@ -7,5 +7,5 @@ langchain
 langchain-community 
 langchain-community==0.3.13
 
-GROQ_API_KEY=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
+GROQ_API_KEY="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"
 
